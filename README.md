@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-BANNER-IMAGE-LINK" width="100%" alt="Azmir Hossain Banner" />
+  <img width="2172" height="724" alt="Banner" src="https://github.com/user-attachments/assets/8440bc3f-2487-47ff-a6af-e9357041d7a5" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Azmir Hossain</h1>
