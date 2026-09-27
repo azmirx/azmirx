@@ -116,12 +116,12 @@ Professional graphics, infographics, thumbnails and marketing materials created 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azmirx&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=azmirx&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azmirx&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmirx&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmirx&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azmirx&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
