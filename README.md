@@ -151,15 +151,15 @@ If you have a project or collaboration opportunity, feel free to get in touch.
 
 <p align="left">
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:azmir4554@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR-LINKEDIN-LINK">
+<a href="[YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/azmirhossainx/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR-WEBSITE-LINK">
+<a href="[YOUR-WEBSITE-LINK](https://www.soovex.com/)">
   <img src="https://img.shields.io/badge/Website-Visit%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
