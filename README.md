@@ -113,14 +113,10 @@ Professional graphics, infographics, thumbnails and marketing materials created 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=azmirx&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azmirx&theme=github_dark" alt="Most Used Languages" />
 </p>
 
 ---
