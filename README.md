@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Azmir Hossain 👋
 
-<!--
-**azmirx/azmirx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | WordPress & Elementor | SEO Specialist | Graphic Designer
 
-Here are some ideas to get you started:
+I build modern, responsive, and SEO-friendly websites that combine clean design, strong performance, and a great user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+- I work with modern web technologies to build responsive and user-friendly websites.
+- I specialize in WordPress and Elementor website development.
+- I also provide Website SEO services, including on-page SEO and technical optimization.
+- I have experience in graphic design for digital and web-based projects.
+- I’m continuously learning and improving my development skills.
+
+
+## Skills & Technologies
+
+**Web Development:**  
+HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
+
+**WordPress:**  
+WordPress • Elementor • Responsive Design • Website Customization
+
+**SEO:**  
+On-Page SEO • Technical SEO • Keyword Research • Internal Linking • Website Optimization
+
+**Design:**  
+Graphic Design • Web Graphics • Social Media Design
+
+
+## Current Focus
+
+- Building modern projects with React and Next.js
+- Improving my JavaScript and front-end development skills
+- Creating responsive WordPress websites with Elementor
+- Combining web development with SEO best practices
+- Learning and applying better UI/UX principles
+
+
+## GitHub Stats
+
+![Azmir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azmirx&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azmirx&layout=compact&hide_border=true)
+
+
+## Connect With Me
+
+- LinkedIn: Add your LinkedIn profile link
+- Portfolio: Add your portfolio website link
+- Email: Add your professional email address
+
+
+---
+
+Thanks for visiting my GitHub profile.  
+Feel free to explore my repositories and connect with me for collaboration or project opportunities.
