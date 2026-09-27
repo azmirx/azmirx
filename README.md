@@ -155,11 +155,11 @@ If you have a project or collaboration opportunity, feel free to get in touch.
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="[YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/azmirhossainx/)">
+<a href="https://www.linkedin.com/in/azmirhossainx/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="[YOUR-WEBSITE-LINK](https://www.soovex.com/)">
+<a href="https://www.soovex.com/">
   <img src="https://img.shields.io/badge/Website-Visit%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
