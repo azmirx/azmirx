@@ -28,6 +28,21 @@ On-Page SEO • Technical SEO • Keyword Research • Internal Linking • Webs
 **Design:**  
 Graphic Design • Web Graphics • Social Media Design
 
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-000000?style=for-the-badge&logo=elementor&logoColor=white)
+
+**SEO:**  
+On-Page SEO • Technical SEO • Keyword Research • Internal Linking • Website Optimization
+
+**Design:**  
+Graphic Design • Web Graphics • Social Media Design
+
 
 ## Current Focus
 
