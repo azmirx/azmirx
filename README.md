@@ -1,73 +1,177 @@
-# Hi, I'm Azmir Hossain 👋
+<h1 align="center">Hi 👋, I'm Azmir Hossain</h1>
 
-### Web Developer | WordPress & Elementor | SEO Specialist | Graphic Designer
+<h3 align="center">
+Web Developer | WordPress & Elementor | SEO Specialist | Graphic Designer
+</h3>
 
-I build modern, responsive, and SEO-friendly websites that combine clean design, strong performance, and a great user experience.
+<p align="center">
+I build modern websites, improve search visibility, and create professional digital experiences for businesses and brands.
+</p>
 
-
-## About Me
-
-- I work with modern web technologies to build responsive and user-friendly websites.
-- I specialize in WordPress and Elementor website development.
-- I also provide Website SEO services, including on-page SEO and technical optimization.
-- I have experience in graphic design for digital and web-based projects.
-- I’m continuously learning and improving my development skills.
-
-
-## Skills & Technologies
-
-**Web Development:**  
-HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
-
-**WordPress:**  
-WordPress • Elementor • Responsive Design • Website Customization
-
-**SEO:**  
-On-Page SEO • Technical SEO • Keyword Research • Internal Linking • Website Optimization
-
-**Design:**  
-Graphic Design • Web Graphics • Social Media Design
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-000000?style=for-the-badge&logo=elementor&logoColor=white)
-
-**SEO:**  
-On-Page SEO • Technical SEO • Keyword Research • Internal Linking • Website Optimization
-
-**Design:**  
-Graphic Design • Web Graphics • Social Media Design
-
-
-## Current Focus
-
-- Building modern projects with React and Next.js
-- Improving my JavaScript and front-end development skills
-- Creating responsive WordPress websites with Elementor
-- Combining web development with SEO best practices
-- Learning and applying better UI/UX principles
-
-
-## GitHub Stats
-
-![Azmir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azmirx&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azmirx&layout=compact&hide_border=true)
-
-
-## Connect With Me
-
-- LinkedIn: Add your LinkedIn profile link
-- Portfolio: Add your portfolio website link
-- Email: Add your professional email address
-
+<p align="center">
+  <a href="https://github.com/azmirx">
+    <img src="https://komarev.com/ghpvc/?username=azmirx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-Thanks for visiting my GitHub profile.  
-Feel free to explore my repositories and connect with me for collaboration or project opportunities.
+## 👨‍💻 About Me
+
+I'm **Azmir Hossain**, a Web Developer and digital specialist focused on creating modern, responsive, user-friendly, and search-optimized digital experiences.
+
+- 💻 Building modern and responsive websites
+- 🌐 Working with **WordPress & Elementor**
+- ⚛️ Learning and building with **JavaScript, React & Next.js**
+- 🔍 Specialized in **Website SEO & YouTube SEO**
+- 🎨 Creating professional **Graphic Designs & Digital Assets**
+- 🚀 Passionate about improving website performance, usability and online visibility
+- 📚 Always learning and improving my development skills
+
+---
+
+## 🚀 What I Do
+
+### 💻 Web Development
+
+I create responsive, modern and user-friendly websites with a focus on clean design, usability and performance.
+
+### 🌐 WordPress & Elementor
+
+I build and customize professional WordPress websites, landing pages and business websites using Elementor.
+
+### 🔍 SEO
+
+I help websites and content improve their search visibility through keyword research, on-page SEO, website optimization and YouTube SEO.
+
+### 🎨 Graphic Design
+
+I create professional visual content including infographics, YouTube thumbnails, banners, social media graphics and other digital marketing assets.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
+
+### 🌐 CMS & Website Builders
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+**WordPress • Elementor**
+
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" />
+</p>
+
+### ⚙️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🔍 SEO Skills
+
+`Website SEO` `On-Page SEO` `Keyword Research` `Technical SEO` `YouTube SEO` `SEO Content Optimization`
+
+---
+
+## 💼 Services
+
+| Service | What I Can Help With |
+|---|---|
+| 💻 Web Development | Responsive & modern website development |
+| 🌐 WordPress | WordPress website design & customization |
+| 🎯 Elementor | Elementor landing pages & website development |
+| 🔍 Website SEO | Keyword research, on-page & technical optimization |
+| ▶️ YouTube SEO | Titles, descriptions, tags, keywords & optimization |
+| 🎨 Graphic Design | Infographics, thumbnails, banners & digital graphics |
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 WordPress & Elementor Projects
+Professional WordPress and Elementor websites focused on responsive design, usability and SEO.
+
+### 💻 Web Development Projects
+Modern web applications and frontend projects built while expanding my development skills.
+
+### 🔍 SEO Projects
+Website and YouTube SEO projects focused on improving search visibility, content optimization and organic performance.
+
+### 🎨 Graphic Design Projects
+Professional graphics, infographics, thumbnails and marketing materials created for digital brands and businesses.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azmirx&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=azmirx&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmirx&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently Focused On
+
+- JavaScript
+- React
+- Next.js
+- Frontend Development
+- WordPress Development
+- Website SEO
+- Building real-world projects
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to working with businesses, brands and individuals who need help with:
+
+**Web Development • WordPress • Elementor • Website SEO • YouTube SEO • Graphic Design**
+
+If you have a project or collaboration opportunity, feel free to get in touch.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:YOUR-EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR-LINKEDIN-LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR-WEBSITE-LINK">
+  <img src="https://img.shields.io/badge/Website-Visit%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing.</i>
+</p>
