@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR-BANNER-IMAGE-LINK" width="100%" alt="Azmir Hossain Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Azmir Hossain</h1>
 
 <h3 align="center">
